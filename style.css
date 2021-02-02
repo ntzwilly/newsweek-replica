@@ -1,0 +1,167 @@
+
+
+.container-fluid {
+  max-width: 1310px;
+  background-color: #ffffff;
+}
+
+.navbar-top {
+  min-height: 50px;
+  font-size: 17px;
+  background-color: #f72210;
+  color: #ffffff;
+}
+
+#btn-login {
+  font-weight: bold;
+  display: inline;
+  cursor: pointer;
+  margin-right: 30px;
+  margin-left: 85px;
+  margin-top: 2px;
+}
+
+#btn-sub {
+  border-radius: 20px;
+  height: 29.6px;
+  width: 127px;
+  border: none;
+  font-weight: bold;
+  background-color: #FFE400;
+}
+
+.time {
+ line-height: 2;
+ margin-bottom: 5px;
+ font-size: 16px;
+ font-family: "Roboto Condensed", sans-serif;
+}
+
+.burger-menu {
+  margin-left: 15px;
+}
+
+.burger {
+  cursor: pointer;
+  display: block;
+  margin-top: 4px;
+  margin-bottom: 4px;
+  height: 4px;
+  width: 30px;
+  background-color: #ffffff8c;
+}
+
+.top-list {
+  list-style-type: none;
+  display: inline;
+  padding: 0;
+  margin-top: 10px;
+  max-width: 95%;
+}
+
+.items {
+  border-left: 1px solid black;
+  font-weight: bold;
+  font-size: 17px;
+  display: inline;
+  border-left-width: 1px;
+  border-left-style: solid;
+  border-left-color: #d9d9d9;
+  padding-left: 10px;
+  padding-right: 5px;
+}
+
+.no-border {
+  border: none;
+  padding-left: 0;
+}
+
+#search-icon {
+  width: 20px;
+  height: 20px;
+  margin-left: 5px;
+}
+
+.search-bar {
+  color: grey;
+  font-size: 17px;
+}
+
+.bottom-list {
+  list-style-type: none;
+  display: inline;
+  padding: 0;
+  width: 80%;
+  margin-left: 15px;
+}
+
+.nav-item {
+  font-weight: bold;
+  font-size: 14px;
+  display: inline;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+:hover.red-hover {
+  color: #f72210;
+}
+
+:hover.orange-underline {
+  text-decoration: underline;
+  text-decoration-color: #f72210;
+}
+
+.grey {
+  color: grey;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.main-title-lg {
+  font-size: 76px;
+  height: 95px;
+  font-family: monospace, arial, sans-serif;
+  font-weight: bold;
+}
+
+.main-title-md {
+  font-size: 23px;
+  font-family: monospace, arial, sans-serif;
+  font-weight: bold;
+}
+
+.footer-logo-large {
+  color: #f72210;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.footer-legal {
+  font-size: 12px;
+}
+
+.footer-edition {
+  color: hsl(0, 0%, 50%);
+}    
+
+.footer-two {
+  border-right: 1px solid rgba(0, 0, 0, 0.2);
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+.footer-two:hover {
+color: black;
+}
+
+.footer-links {
+  font-size: 14px;
+  margin-left: -10px;
+  margin-top: 10px;
+  color: rgb(128, 128, 128);
+}
+
+
