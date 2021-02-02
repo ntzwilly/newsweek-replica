@@ -140,6 +140,7 @@
 
 .footer-legal {
   font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .footer-edition {
@@ -162,4 +163,8 @@
   margin-left: -10px;
   margin-top: 10px;
   color: rgb(128, 128, 128);
+}
+
+footer {
+  margin-left: 25px;
 }
