@@ -1,15 +1,14 @@
 
-
 .container-fluid {
   max-width: 1310px;
-  background-color: #ffffff;
+  background-color: #fff;
 }
 
 .navbar-top {
   min-height: 50px;
   font-size: 17px;
   background-color: #f72210;
-  color: #ffffff;
+  color: #fff;
 }
 
 #btn-login {
@@ -27,14 +26,14 @@
   width: 127px;
   border: none;
   font-weight: bold;
-  background-color: #FFE400;
+  background-color: hsl(54, 100%, 50%);
 }
 
 .time {
- line-height: 2;
- margin-bottom: 5px;
- font-size: 16px;
- font-family: "Roboto Condensed", sans-serif;
+  line-height: 2;
+  margin-bottom: 5px;
+  font-size: 16px;
+  font-family: "Roboto Condensed", sans-serif;
 }
 
 .burger-menu {
@@ -144,17 +143,18 @@
 }
 
 .footer-edition {
-  color: hsl(0, 0%, 50%);
-}    
+  color: grey;
+}
 
 .footer-two {
   border-right: 1px solid rgba(0, 0, 0, 0.2);
   padding-right: 10px;
   padding-left: 10px;
+  font-size: 15px;
 }
 
 .footer-two:hover {
-color: black;
+  color: black;
 }
 
 .footer-links {
@@ -163,5 +163,3 @@ color: black;
   margin-top: 10px;
   color: rgb(128, 128, 128);
 }
-
-
