@@ -4,9 +4,9 @@
 
 > Copy of a page from TNW website
 
-![TNWscreenshot]()
+![header_screenshot](https://user-images.githubusercontent.com/9049260/106687430-c0613400-65d4-11eb-8139-ce0b4bbd528b.png)
 
-![TNWscreenshot]()
+![footer_screenshot](https://user-images.githubusercontent.com/9049260/106687524-ef77a580-65d4-11eb-89dc-ea2213e3f5f7.png)
 
 In the first milestone, I have to prepare the tools to develop this website and will create 2 small sections.
 
