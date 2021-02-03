@@ -19,7 +19,7 @@ In the first milestone, I have to prepare the tools to develop this website and 
 3. Install Bootstrap in your project
 4. Prepare your project to work with 3 screen sizes: mobile, tablet, and desktop using the Bootstrap 
 5. Responsive grid classes
-6. Create these sections of the website for the 3 screen sizes
+6. Create Header and Footer of the website for the 3 screen sizes.
 
 ## Built With
 
