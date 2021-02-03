@@ -10,7 +10,7 @@
 
 ## Footer
 
-![footer](https://user-images.githubusercontent.com/9049260/106752998-c0dce780-6633-11eb-9f91-feef083f09c7.png)
+![footer1](https://user-images.githubusercontent.com/9049260/106755194-80329d80-6636-11eb-8a6d-8d41c7e2b27a.png)
 
 In the first milestone, I have to prepare the tools to develop this website and will create 2 small sections.
 
