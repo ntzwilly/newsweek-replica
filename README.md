@@ -4,11 +4,11 @@
 
 > Copy of a page from NewsWeek
 
-##Header
+## Header
 
 ![header_screenshot](https://user-images.githubusercontent.com/9049260/106687430-c0613400-65d4-11eb-8139-ce0b4bbd528b.png)
 
-##Footer
+## Footer
 
 ![footer_screenshot](https://user-images.githubusercontent.com/9049260/106687524-ef77a580-65d4-11eb-89dc-ea2213e3f5f7.png)
 
