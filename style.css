@@ -661,6 +661,258 @@ footer .top .social i {
   right: 0;
 }
 
+.image-wrapper {
+  position: relative;
+}
+
+.category {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background-color: rgba(255, 255, 255, 0.9);
+  padding: 8px 15px 9px;
+  color: #f72210;
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 16px;
+}
+
+.magazines-title {
+  color: #333;
+  font-weight: 700;
+  font-size: 19px;
+  border-bottom: 1px solid #d9d9d9;
+  padding-bottom: 8px;
+  margin-bottom: 15px;
+}
+
+.magazine > * {
+  margin-bottom: 30px;
+}
+
+.mag-image-wrapper {
+  position: relative;
+  overflow: hidden;
+}
+
+.mag-image {
+  width: 100%;
+  height: auto;
+}
+
+.mag-image-2 {
+  width: auto;
+  height: 100%;
+  position: absolute;
+  transform: translate(-18%, 0);
+}
+
+.mag-image-padder {
+  padding-bottom: 100%;
+  position: relative;
+  max-height: 311px;
+  max-width: 466px;
+}
+
+.icon {
+  background:
+    url(https://g.newsweek.com/www/images/logo-n1.svg) center/contain
+    no-repeat #f72210;
+  height: 29px;
+  width: 29px;
+  margin-right: 10px;
+}
+
+.mag-features {
+  background-color: rgb(244, 245, 246);
+  text-align: center;
+  padding: 10px 10px 10px 12px;
+  font-weight: 700;
+  font-size: 18px;
+}
+
+.mag-category {
+  color: #f72210;
+  font-weight: 700;
+  line-height: 26px;
+  margin: 10px 0;
+}
+
+.mag-section {
+  background-color: #f72210;
+  color: white;
+  padding: 0 7px;
+  margin-right: 7px;
+  display: inline-block;
+}
+
+.mag-title {
+  font-weight: 700;
+  font-size: 20px;
+  color: black;
+  line-height: 20px;
+}
+
+.editor-picks-title {
+  color: #333;
+  font-weight: 700;
+  font-size: 19px;
+  border-bottom: 1px solid #d9d9d9;
+  padding-bottom: 8px;
+  margin-bottom: 15px;
+}
+
+.section-picks {
+  margin-bottom: 30px;
+}
+
+.section-pick-title {
+  color: #f72210;
+  font-weight: 700;
+  font-size: 22px;
+  padding-top: 25px;
+  padding-bottom: 11px;
+  border-top: 1px solid rgb(217, 217, 217);
+}
+
+.category-article {
+  margin-bottom: 25px;
+}
+
+.small-articles > * {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-top: 1px solid #ddd;
+}
+
+.small-articles article:first-child {
+  padding-top: 0;
+  border-top: none;
+}
+
+.small-img {
+  width: 110px;
+  height: 110px;
+  position: relative;
+  flex-shrink: 0;
+  margin-right: 15px;
+}
+
+.category-story-title {
+  font-size: 22px;
+  font-weight: 700;
+  margin-top: 5px;
+  color: black;
+}
+
+.category-story-title-small {
+  font-size: 17px;
+  font-weight: 700;
+  margin-top: 5px;
+  color: black;
+}
+
+.subscribe-block {
+  padding-top: 40px;
+  border-top: 1px solid rgb(217, 217, 217);
+  padding-bottom: 40px;
+}
+
+.subscribe-title {
+  color: #f72210;
+  font-weight: 700;
+  font-size: 16px;
+}
+
+.subscribe-article {
+  background-color: #f4f5f6;
+  padding: 30px;
+}
+
+.subscribe-img {
+  position: relative;
+  padding-right: 90px;
+}
+
+.previous-subscribe-img {
+  position: relative;
+}
+
+.current-subscribe-img {
+  position: absolute;
+  top: 13px;
+  left: 80px;
+}
+
+.subscribe-info {
+  padding-left: 30px;
+}
+
+.subscribe-header {
+  color: black;
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 15px;
+}
+
+.subscribe-text {
+  font-size: 15px;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.subscribe-btn-2 {
+  background-color: #f72310;
+  font-weight: 700;
+  font-size: 18px;
+  color: white;
+  border: none;
+  padding: 10px 10px 10px 12px;
+  line-height: 18px;
+  white-space: nowrap;
+}
+
+.newsletter-img {
+  background:
+    url("https://d.newsweek.com/en/full/1541302/starting5-homepage.png?w=397&h=265&q=90&f=742bce9a6f72dd8f19ba2e7fd5db06e5")
+    center center / cover no-repeat;
+  width: 48%;
+}
+
+.newsletter-info {
+  padding: 30px;
+  border: 1px solid rgb(235, 235, 235);
+  width: 52%;
+}
+
+@media screen and (max-width: 767px) {
+  .subscribe-article {
+    text-align: center;
+  }
+
+  .subscribe-img {
+    padding-bottom: 30px;
+  }
+
+  .newsletter-article {
+    flex-direction: column;
+  }
+
+  .newsletter-img {
+    height: 170px;
+    width: 100%;
+  }
+
+  .newsletter-info {
+    width: 100%;
+    text-align: center;
+  }
+
+  .subscribe-info {
+    padding: 0;
+  }
+}
+
 footer {
   padding: 30px 10px;
 }

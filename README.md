@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-## Project 3: Using Bootstrap - Milestone 2 
+# newsweek-replica 
 
 > Copy of a page from NewsWeek
 
@@ -9,27 +9,8 @@
 ![Screenshot from 2021-02-04 11-22-05](https://user-images.githubusercontent.com/9049260/106871662-246e2000-66db-11eb-823f-060852b9cf4d.png)
 
 
-In the second milestone, I create the 3 columns main section of the website for the 3 screen sizes.
+This project consist of making a replica of newsweek website
 
-##Column 1
-
-- Featured stories
-- Sponsored insights / Rankings
-
-##Column 2
-
-- Top story
-- My turn
-- Culture & travel
-- More stories
-- Latest news
-
-##Column 3
-
-The debate
-Opinion
-Sponsored insights / Rankings
-Free signup
 
 ## Built With
 
