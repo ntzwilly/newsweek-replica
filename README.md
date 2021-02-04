@@ -1,25 +1,35 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-## Project 3: Using Bootstrap - Milestone 1 (2h)
+## Project 3: Using Bootstrap - Milestone 2 
 
 > Copy of a page from NewsWeek
 
-## Header
+## Screenshot
 
-![header](https://user-images.githubusercontent.com/9049260/106752768-7f4c3c80-6633-11eb-948c-dcc57b5c250f.png)
+![Screenshot from 2021-02-04 11-22-05](https://user-images.githubusercontent.com/9049260/106871662-246e2000-66db-11eb-823f-060852b9cf4d.png)
 
-## Footer
 
-![footer1](https://user-images.githubusercontent.com/9049260/106755194-80329d80-6636-11eb-8a6d-8d41c7e2b27a.png)
+In the second milestone, I create the 3 columns main section of the website for the 3 screen sizes.
 
-In the first milestone, I have to prepare the tools to develop this website and will create 2 small sections.
+##Column 1
 
-1. Set up a new the repository
-2. Prepare the main HTML file
-3. Install Bootstrap in your project
-4. Prepare your project to work with 3 screen sizes: mobile, tablet, and desktop using the Bootstrap 
-5. Responsive grid classes
-6. Create Header and Footer of the website for the 3 screen sizes.
+- Featured stories
+- Sponsored insights / Rankings
+
+##Column 2
+
+- Top story
+- My turn
+- Culture & travel
+- More stories
+- Latest news
+
+##Column 3
+
+The debate
+Opinion
+Sponsored insights / Rankings
+Free signup
 
 ## Built With
 
