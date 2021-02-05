@@ -837,6 +837,18 @@ footer .top .social i {
   margin-bottom: 15px;
 }
 
+.subscribe-input {
+  width: 100%;
+}
+
+.subscribe-input-field {
+  width: 95%;
+  padding: 8px;
+  font-size: 14px;
+  opacity: 0.6;
+  margin-bottom: 12px;
+}
+
 .subscribe-text {
   font-size: 15px;
   color: #333;
@@ -846,12 +858,18 @@ footer .top .social i {
 .subscribe-btn-2 {
   background-color: #f72310;
   font-weight: 700;
-  font-size: 18px;
+  font-size: 16px;
   color: white;
   border: none;
   padding: 10px 10px 10px 12px;
   line-height: 18px;
   white-space: nowrap;
+}
+
+.btn--signup {
+  width: 95%;
+  font-size: 14px;
+  border-radius: 3px;
 }
 
 .newsletter-img {
