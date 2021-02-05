@@ -16,14 +16,14 @@ a {
   cursor: pointer;
 }
 
-.bootstrap .navbar .fixed {
+/* .bootstrap .navbar .fixed {
   position: fixed;
   z-index: 20;
-}
+} */
 
-.bootstrap .navbar .fixed #banner-date {
+/* .bootstrap .navbar .fixed #banner-date {
   display: none;
-}
+} */
 
 .bootstrap .navbar .fixed #newsweek-logo {
   height: 20px;
@@ -40,13 +40,9 @@ a {
 
 .line {
   border-bottom: 2px solid #e7e7e7;
-  width: 100%;
 }
 
 .featured-stories {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
   font-family: "Roboto Condensed", sans-serif;
   box-sizing: border-box;
 }
