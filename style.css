@@ -11,20 +11,6 @@ li {
   list-style: none;
 }
 
-a {
-  font-family: "Roboto Condensed", sans-serif;
-  cursor: pointer;
-}
-
-/* .bootstrap .navbar .fixed {
-  position: fixed;
-  z-index: 20;
-} */
-
-/* .bootstrap .navbar .fixed #banner-date {
-  display: none;
-} */
-
 .bootstrap .navbar .fixed #newsweek-logo {
   height: 20px;
 }
